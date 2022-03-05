@@ -1,0 +1,31 @@
+style.css
+selector {         /* Select elements of your page */
+  property: value; /* Design a first property */
+	property: value; /* Then a second */
+	property: value; /* Etc... */
+}
+h2 {
+  	color: red;
+	font-size: 20px;
+	font-family: 'Lobster', cursive;
+} 
+body {
+  color: rgb(10, 10, 10);     
+	background-color: #F2C9E1;  
+}
+body {
+  font-size: 30px;
+	line-height: 1.8;
+	letter-spacing: 0,5px;
+.container {
+  width: 700px; 
+  margin: 40px auto; 
+}
+
+
+
+
+
+
+
+
